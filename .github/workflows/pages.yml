@@ -29,6 +29,8 @@ jobs:
         run: npm install
       - name: Install butterfly
         run: npm install hexo-theme-butterfly && npm install hexo-renderer-pug hexo-renderer-stylus --save
+      - name: Install butterfly local search plugs
+        run: npm install hexo-generator-searchdb
       - name: Build
         run: npm run build
       - name: Upload Pages artifact
