@@ -3,7 +3,7 @@
 # Navigation bar settings (導航欄設置)
 # see https://butterfly.js.org/posts/4aa8abbe/##導航欄設置-Navigation-bar-settings
 nav:
-  logo: https://oss.dandaner.cn/pd/publicshare/blog/0.png
+  logo: https://cloud.dandaner.cn/p/publicshare/blog/0.png
   display_title: true
   fixed: false # fixed navigation bar
 
@@ -42,18 +42,18 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://oss.dandaner.cn/pd/publicshare/blog/0.png
+favicon: https://cloud.dandaner.cn/p/publicshare/blog/0.png
 
 # Avatar (頭像)
 avatar:
-  img: https://oss.dandaner.cn/pd/publicshare/blog/0.png
+  img: https://cloud.dandaner.cn/p/publicshare/blog/0.png
   effect: false
 
 # Disable all banner image
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://oss.dandaner.cn/pd/publicshare/website/174736.jpg
+index_img: https://cloud.dandaner.cn/p/publicshare/website/174736.jpg
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: "linear-gradient(#e9619b, 15%, #fbd1e3);"
@@ -89,22 +89,22 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-    - https://oss.dandaner.cn/pd/publicshare/HelloKitty/0d9b8264767bc362a24ca012a62a952f.jpg
-    - https://oss.dandaner.cn/pd/publicshare/HelloKitty/1538f0f8c40cb99531ebbf368bc24cff.jpeg
-    - https://oss.dandaner.cn/pd/publicshare/HelloKitty/1c424f49be1f371a9d83519ef89bc904.jpeg
-    - https://oss.dandaner.cn/pd/publicshare/HelloKitty/368bf31de07216ff776e2018e09fa41b.jpeg
-    - https://oss.dandaner.cn/pd/publicshare/HelloKitty/4b702a8db893499d2e1ab4003d63ebc3.jpeg
-    - https://oss.dandaner.cn/pd/publicshare/HelloKitty/54080c5f32d5203d6f68deae7495cf61.jpeg
-    - https://oss.dandaner.cn/pd/publicshare/HelloKitty/557a2f5fea914f4b3465c5bde6512588.jpeg
-    - https://oss.dandaner.cn/pd/publicshare/HelloKitty/5d34713fbdc0e1176d520512bee34fc6.jpeg
-    - https://oss.dandaner.cn/pd/publicshare/HelloKitty/68f27777c8035212aea8e8c0dfc1949d.jpeg
-    - https://oss.dandaner.cn/pd/publicshare/HelloKitty/766e11d53c58741b22bf717330f692ae.jpg
-    - https://oss.dandaner.cn/pd/publicshare/HelloKitty/9226188bddbdb714dc85eba025638301.jpeg
-    - https://oss.dandaner.cn/pd/publicshare/HelloKitty/951f70df339c018a1e3753e2b0975b17.jpeg
-    - https://oss.dandaner.cn/pd/publicshare/HelloKitty/9fd3e3c71d93334e4b6fa9f663569fb5.jpeg
-    - https://oss.dandaner.cn/pd/publicshare/HelloKitty/b5c397e46b05a0d0443fbf2347e71df6.jpeg
-    - https://oss.dandaner.cn/pd/publicshare/HelloKitty/d11f7a7d3f84c82fc980894e1245264c.jpeg
-    - https://oss.dandaner.cn/pd/publicshare/HelloKitty/ffda12decedc7acec34b1691007cb5fd.jpeg
+    - https://cloud.dandaner.cn/p/publicshare/HelloKitty/0d9b8264767bc362a24ca012a62a952f.jpg
+    - https://cloud.dandaner.cn/p/publicshare/HelloKitty/1538f0f8c40cb99531ebbf368bc24cff.jpeg
+    - https://cloud.dandaner.cn/p/publicshare/HelloKitty/1c424f49be1f371a9d83519ef89bc904.jpeg
+    - https://cloud.dandaner.cn/p/publicshare/HelloKitty/368bf31de07216ff776e2018e09fa41b.jpeg
+    - https://cloud.dandaner.cn/p/publicshare/HelloKitty/4b702a8db893499d2e1ab4003d63ebc3.jpeg
+    - https://cloud.dandaner.cn/p/publicshare/HelloKitty/54080c5f32d5203d6f68deae7495cf61.jpeg
+    - https://cloud.dandaner.cn/p/publicshare/HelloKitty/557a2f5fea914f4b3465c5bde6512588.jpeg
+    - https://cloud.dandaner.cn/p/publicshare/HelloKitty/5d34713fbdc0e1176d520512bee34fc6.jpeg
+    - https://cloud.dandaner.cn/p/publicshare/HelloKitty/68f27777c8035212aea8e8c0dfc1949d.jpeg
+    - https://cloud.dandaner.cn/p/publicshare/HelloKitty/766e11d53c58741b22bf717330f692ae.jpg
+    - https://cloud.dandaner.cn/p/publicshare/HelloKitty/9226188bddbdb714dc85eba025638301.jpeg
+    - https://cloud.dandaner.cn/p/publicshare/HelloKitty/951f70df339c018a1e3753e2b0975b17.jpeg
+    - https://cloud.dandaner.cn/p/publicshare/HelloKitty/9fd3e3c71d93334e4b6fa9f663569fb5.jpeg
+    - https://cloud.dandaner.cn/p/publicshare/HelloKitty/b5c397e46b05a0d0443fbf2347e71df6.jpeg
+    - https://cloud.dandaner.cn/p/publicshare/HelloKitty/d11f7a7d3f84c82fc980894e1245264c.jpeg
+    - https://cloud.dandaner.cn/p/publicshare/HelloKitty/ffda12decedc7acec34b1691007cb5fd.jpeg
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
@@ -182,10 +182,10 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-    - img: https://oss.dandaner.cn/pd/publicshare/blog/700f62521c6111ed81b4d8f883d9c5aa.png
+    - img: https://cloud.dandaner.cn/p/publicshare/blog/700f62521c6111ed81b4d8f883d9c5aa.png
       #   link:
       text: 微信
-    - img: https://oss.dandaner.cn/pd/publicshare/blog/1dcb90ec1c6211edaff4d8f883d9c5aa.png
+    - img: https://cloud.dandaner.cn/p/publicshare/blog/1dcb90ec1c6211edaff4d8f883d9c5aa.png
       #   link:
       text: 支付宝
 
@@ -929,7 +929,7 @@ css_prefix: true
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
-    - <link rel="stylesheet" href="https://oss.dandaner.cn/pd/publicshare/website/butterely.css">
+    - <link rel="stylesheet" href="https://cloud.dandaner.cn/p/publicshare/website/butterely.css">
   bottom:
     # - <script src="xxxx"></script>
 

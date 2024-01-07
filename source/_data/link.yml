@@ -3,7 +3,7 @@
   link_list:
     - name: Next ChatGPT
       link: https://ai.dandaner.cn/
-      avatar: https://oss.dandaner.cn/pd/publicshare/website/openai-svgrepo-com.svg
+      avatar: https://cloud.dandaner.cn/p/publicshare/website/openai-svgrepo-com.svg
       descr: 无需登录和魔法的ChatGPT镜像站
 
 - class_name: 网站
@@ -11,7 +11,7 @@
   link_list:
     - name: Hoppsoctch
       link: https://api.dandaner.cn/
-      avatar: https://oss.dandaner.cn/pd/publicshare/website/hoppscotch.png
+      avatar: https://cloud.dandaner.cn/p/publicshare/website/hoppscotch.png
       descr: 在线API调试,Postman网页版
     - name: Youtube
       link: https://www.youtube.com/

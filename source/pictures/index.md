@@ -5,5 +5,5 @@ type: "pictures"
 comments: false
 ---
 <div class="gallery-group-main">
-{% galleryGroup '高木同学' '擅长捉弄，古灵精怪且讨喜的高木同学' '/takagi/' https://oss.dandaner.cn/pd/publicshare/takagi/1208498.png %}
+{% galleryGroup '高木同学' '擅长捉弄，古灵精怪且讨喜的高木同学' '/takagi/' https://cloud.dandaner.cn/p/publicshare/takagi/1208498.png %}
 </div>
